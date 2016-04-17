@@ -12,4 +12,5 @@ applications:
   #install: "pip install -r requirements.txt"
   env:
     LOG_HOST: fabio-receivertc.cfapps.io
-    LOG_PORT: 61116
+    LOG_PORT: 80
+    #LOG_PORT: 61116
