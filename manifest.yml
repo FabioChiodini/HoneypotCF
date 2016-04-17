@@ -1,0 +1,15 @@
+---
+applications:
+- name: honeypot-${random-word}
+  memory: 128M
+  buildpack: python_buildpack
+  domain: cfapps.io
+  command: python honeypot.py
+  timeout: 20
+  
+  #Added this K
+  # command to install dependencies
+  #install: "pip install -r requirements.txt"
+  env:
+    LOG_HOST: fabio-receivertc.cfapps.io
+    LOG_PORT: 61116
