@@ -9,4 +9,10 @@ How to deploy (example)
 
  ```
 
-The variables embedded are set to connect to fabio-receivertc (fabio-receivertc.cfapps.io) for demo purposes
+The variables embedded are set to connect to fabio-receivertc (fabio-receivertc.cfapps.io) for demo purposes.
+
+Refer to:
+
+https://github.com/FabioChiodini/ReceiverCF
+
+@FabioChiodini
