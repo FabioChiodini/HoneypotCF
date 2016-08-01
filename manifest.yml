@@ -3,7 +3,7 @@ applications:
 - name: honeypot-${random-word}
   memory: 128M
   buildpack: python_buildpack
-  domain: cfapps.io
+  #domain: cfapps.io
   command: python honeypot.py
   timeout: 20
   
