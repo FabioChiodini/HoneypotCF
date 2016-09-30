@@ -1,6 +1,6 @@
 ---
 applications:
-- name: honeypot-${random-word}
+- name: fabio-honeypot-${random-word}
   memory: 128M
   buildpack: python_buildpack
   #domain: cfapps.io
