@@ -1,5 +1,5 @@
 # HoneypotCF
-Code to deploy an Honeypot to Cloud Foundry
+Code to deploy an Honeypot to Cloud Foundry for project Titanium Crucible.
 
 How to deploy (example)
 
