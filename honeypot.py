@@ -32,7 +32,7 @@ def log_request(req):
         'ip': request.environ.get('X-Forwarded-For', request.remote_addr),
         'url': req.full_path,
     }
-    test_logger.info('honeypot: ', extra=extra)
+    test_logger.info('honeypotCF: ', extra=extra)
 
 #data to log
 
