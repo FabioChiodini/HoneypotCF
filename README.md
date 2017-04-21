@@ -21,6 +21,7 @@ TBD
 
  ```
  
+ ## Output
  This is how an example log should show up on Kibana:
  
  ![Alt text](/images/HoneypotCFLogELK.png "HoneypotCFLogELK")
