@@ -9,6 +9,8 @@ How to deploy (example)
 
  ```
 
+## Environment Variables
+
 The variables embedded are set to connect to an ELK stack available over internet for demo purposes.
 
 Change these variables to connect to your own stack:
