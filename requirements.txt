@@ -9,6 +9,7 @@ anyjson==0.3.3
 simplejson==3.6.5
 requests==0.14.2
 furl==0.4.93
+python-logstash==0.4.6
 #urllib
 #urllib3==1.10.1
 #urllib2
