@@ -19,7 +19,7 @@ TBD
 
  ```
  
- This is how the log should show up on Kibana:
+ This is how an example log should show up on Kibana:
  
  ![Alt text](/images/HoneypotCFLogELK.png "HoneypotCFLogELK")
 
