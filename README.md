@@ -9,10 +9,19 @@ How to deploy (example)
 
  ```
 
-The variables embedded are set to connect to fabio-receivertc (fabio-receivertc.cfapps.io) for demo purposes.
+The variables embedded are set to connect to an ELK stack available over internet for demo purposes.
 
-Refer to:
+Change these variables to connect to your own stack:
 
-https://github.com/FabioChiodini/ReceiverCF
+```
+
+TBD
+
+ ```
+
+The code that can be used to start this App on docker is here:
+
+https://github.com/FabioChiodini/titaniumcrucible
+
 
 @FabioChiodini
