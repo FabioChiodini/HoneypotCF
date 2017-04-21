@@ -13,11 +13,12 @@ How to deploy (example)
 
 The variables embedded are set to connect to an ELK stack available over internet for demo purposes.
 
-Change these variables to connect to your own stack:
+Change these variables in manifest.yml to connect to your own stack:
 
 ```
 
-TBD
+    LOG_HOST: tcteam.ddns.net
+    LOG_PORT: 5000
 
  ```
  
