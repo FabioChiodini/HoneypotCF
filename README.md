@@ -18,6 +18,10 @@ Change these variables to connect to your own stack:
 TBD
 
  ```
+ 
+ This is how the log should show up on Kibana:
+ 
+ ![Alt text](/images/HoneypotCFLogELK.png "HoneypotCFLogELK")
 
 The code that can be used to start this App on docker is here:
 
